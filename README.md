@@ -2,7 +2,7 @@
 
 **Your Chaos, Our Equation**
 
-We are **InRequiem Quantative** – the quantitative research, trading, and modeling division of the InRequiem ecosystem. Born from late-night experiments, too much coffee, and a deep love of math, we’re a firm that lives at the intersection of code, chaos, and capital.
+We are **InRequiem Research** – the quantitative research, trading, and modeling division of the InRequiem ecosystem. Born from late-night experiments, too much coffee, and a deep love of math, we’re a firm that lives at the intersection of code, chaos, and capital.
 
 We don’t just crunch numbers. We weaponize data.
 
