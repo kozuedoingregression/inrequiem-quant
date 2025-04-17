@@ -68,6 +68,6 @@ Want a Sharpe ratio that slaps?
 Need a pipeline that never sleeps?
 Looking to put your machine learning degree to actual use?
 
-Say hi.
+Say hi!
 quant@inrequiem.dev
 https://inrequiem.dev
